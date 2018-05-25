@@ -8,12 +8,12 @@ namespace FarmAnimals
 {
     class Dog: IAnimal
     {
-        public void Eat()
+        public void Eat(string food)
         {
 
         }
 
-        public void Usage()
+        public void Usage(Circumstances circumstances)
         {
 
         }

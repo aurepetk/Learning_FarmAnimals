@@ -47,6 +47,23 @@ namespace FarmAnimals
                     break;
             }
 
+            switch ((int)circumstances.DayTime)
+            {
+                case 0:
+                    Console.WriteLine("Sleeps on your bed and doesn't care about you. NO USAGE.";
+                    break;
+                case 1:
+                    Console.WriteLine("Let's you enjoy it's fluffiness.");
+                    break;
+                case 2:
+                    Console.WriteLine("Warms you with it's fur.");
+                    break;
+                case 3:
+                    Console.WriteLine("Hunts mice.");
+                    break;
+            }
+
+
         }
 
         public void Talk()

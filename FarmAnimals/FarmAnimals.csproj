@@ -56,7 +56,7 @@
     <Compile Include="Animals\Pig.cs" />
     <Compile Include="Circumstances.cs" />
     <Compile Include="Enum\DayTime.cs" />
-    <Compile Include="Enum\Environment.cs" />
+    <Compile Include="Enum\Atmosphere.cs" />
     <Compile Include="Enum\Season.cs" />
     <Compile Include="Enum\Weather.cs" />
     <Compile Include="UnitTest1.cs" />
